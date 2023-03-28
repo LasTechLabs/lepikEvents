@@ -6,8 +6,7 @@
   "scripts": {
     "build:win": "pyinstaller ./src/winpy.py --distpath ./build -F --workpath ./tmp -y",
     "build:unix": "node src/buildUnix.js",
-    "build": "npm run build:win && npm run build:unix",
-    "postinstall": "node src/platform.js"
+    "build": "npm run build:win && npm run build:unix"
   },
   "keywords": [
     "mouse",

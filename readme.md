@@ -1,4 +1,4 @@
-# Preface
+# Preface - IMPORTANT! READ THIS!
 
 The Lepik Events module leaves an orphan child process when a module using LepikEvents is killed with `ctrl + c`, removing all mouse-tracking code from winpy.py (and unixpy.py) resolves this issue, without impacting keyboard tracking. You can view [src/winpy.py](https://github.com/LasTechLabs/lepikEvents/blob/main/src/winpy.py) to see the changes that were made.
 

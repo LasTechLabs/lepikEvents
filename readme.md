@@ -4,6 +4,8 @@ The Lepik Events module leaves an orphan child process when a module using Lepik
 
 After making changes, the module was also rebuilt, removing the post-install patch as it caused issues when installing from github.
 
+Install from github with: `npm install lastechlabs/lepikEvents`
+
 **The rest of this readme is the same as the original LepikEvents so may not accurately reflect these changes!**
 
 ---

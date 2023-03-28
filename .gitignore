@@ -1,9 +1,0 @@
-node_modules/
-tmp/
-test/
-*.spec
-build/
-dist/
-lib/
-src/__pycache__/
-backup/

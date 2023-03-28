@@ -1,9 +1,0 @@
-src/__pycache__
-src/winpy.py
-node_modules/
-dist/
-tmp/
-test/
-example/
-*.spec 
-backup/
